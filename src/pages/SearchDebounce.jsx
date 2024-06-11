@@ -21,7 +21,7 @@ export const SearchDebounce = () => {
   return (
     <>
       <div className="card">
-        <h2>Phone Input</h2>
+        <h2>Debounce Input</h2>
         <div className="info_text_container">
           <p className="info_text">
             <code>Best Practices:</code> is when you enter any text in the input
